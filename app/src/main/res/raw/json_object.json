@@ -1,0 +1,320 @@
+{
+  "DataObject": {
+    "DataListObject": [
+      {
+        "CatId": 1,
+        "Title": "טרקטורוני היער והגולן",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/Atractions/PublishingImages/arnak/TractoroniHayaar/טרקטרוני_הגולן_big.jpg&format=webp&type=b",
+        "Id": 101069,
+        "DataListAddr": [
+          {
+            "Addr": "רמת נפתלי",
+            "DAd": "מושב רמת נפתלי"
+          }
+        ]
+      },
+      {
+        "CatId": 1,
+        "Title": "מסע באיזי נהיגה",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/Atractions/PublishingImages/arnak/masa_beizi/מסע_באיזי_big.jpg&format=webp&type=b",
+        "Id": 101076,
+        "DataListAddr": [
+          {
+            "Addr": "שאר ישוב",
+            "DAd": "שאר ישוב"
+          }
+        ]
+      },
+      {
+        "CatId": 1,
+        "Title": "חי פארק קרית מוצקין",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/ChaiPark/big.jpg&format=webp&type=b",
+        "Id": 101086,
+        "DataListAddr": [
+          {
+            "Addr": "החשמונאים 79, קרית מוצקין",
+            "DAd": "החשמונאים 79,קרית מוצקין"
+          }
+        ]
+      },
+      {
+        "CatId": 1,
+        "Title": "אטרקטיבי",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/Atractions/PublishingImages/arnak/atraktivi/Extremesport_big.min.jpg",
+        "Id": 101137,
+        "DataListAddr": [
+          {
+            "Addr": "אילת",
+            "DAd": "חוף נביעות"
+          }
+        ]
+      },
+      {
+        "CatId": 1,
+        "Title": "אקווה ספורט מועדון צלילה",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/Atractions/PublishingImages/arnak/aqwa_sport_tzlila/אקווה_ספורט_צלילה_big.jpg&format=webp&type=b",
+        "Id": 101145,
+        "DataListAddr": [
+          {
+            "Addr": "אילת",
+            "DAd": "חוף אלמוג"
+          }
+        ]
+      },
+      {
+        "CatId": 2,
+        "Title": "סדנת שקולד",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/Shakolad/shakolad_big.min.jpg",
+        "Id": 101178,
+        "NOV": "108",
+        "DataListAddr": [
+          {
+            "Addr": "יוחנן הסנדלר 7, כפר סבא",
+            "DAd": "יוחנן הסנדלר 7,כפר סבא"
+          }
+        ]
+      },
+      {
+        "CatId": 2,
+        "Title": "מרכבות חוות פיליפ",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/ChavatPhilip/MerkavotHavatPhilip_big.min.jpg",
+        "Id": 101215,
+        "NOV": "15",
+        "DataListAddr": [
+          {
+            "DAd": "צפונית לצומת בית קמה"
+          }
+        ]
+      },
+      {
+        "CatId": 2,
+        "Title": "גני חוגה בית שאן",
+        "STitle": "הנחה על כרטיס ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/Atractions/PublishingImages/arnak/ganey%20hoga/GaneyHuga_big.min.jpg",
+        "Id": 101968,
+        "DataListAddr": [
+          {
+            "Addr": "בית שאן",
+            "DAd": "עמק המעיינות"
+          }
+        ]
+      },
+      {
+        "CatId": 2,
+        "Title": "פיינטבול ישראל - כפר סבא",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/PaintballIsrael/big.jpg&format=webp&type=b",
+        "Id": 102807,
+        "DataListAddr": [
+          {
+            "Addr": "בית ברל 0, כפר סבא",
+            "DAd": "בית ברל"
+          }
+        ]
+      },
+      {
+        "CatId": 2,
+        "Title": "פיינטבול ישראל - חיפה",
+        "STitle": "כרטיס כניסה 1+1/הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/PaintballIsrael/big.jpg&format=webp&type=b",
+        "Id": 102808,
+        "DataListAddr": [
+          {
+            "Addr": "קדושי יאסי 0, חיפה",
+            "DAd": "מרכז הקונגרסים"
+          }
+        ]
+      },
+      {
+        "CatId": 3,
+        "Title": "מגה קארטינג",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/MegaCarting/big.jpg&format=webp&type=b",
+        "Id": 102809,
+        "DataListAddr": [
+          {
+            "Addr": "דרך זאב ז'בוטינסקי 0, פתח תקווה",
+            "DAd": "הקניון הגדול אבנת"
+          }
+        ]
+      },
+      {
+        "CatId": 3,
+        "Title": "פארק המעיינות",
+        "STitle": "השכרת אופניים 1+1/הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/ParkHamaayanot/parkmaayanotnewbig.min.jpg",
+        "Id": 102815,
+        "DataListAddr": [
+          {
+            "Addr": "בית שאן",
+            "DAd": "פארק המעיינות"
+          }
+        ]
+      },
+      {
+        "CatId": 3,
+        "Title": "סקי בגלבוע",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/SkyBagilboa/big.jpg&format=webp&type=b",
+        "Id": 102819,
+        "DataListAddr": [
+          {
+            "Addr": "גלבוע",
+            "DAd": "מועצה איזורית גלבוע"
+          }
+        ]
+      },
+      {
+        "CatId": 3,
+        "Title": "דוקטור דג",
+        "STitle": "הנחות מיוחדות",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/DoctorDag/DoctorDag_big.jpg&format=webp&type=b",
+        "Id": 102821,
+        "DataListAddr": [
+          {
+            "Addr": "מרכז מסחרי 0, אילת",
+            "DAd": "בניין ספירל"
+          }
+        ]
+      },
+      {
+        "CatId": 3,
+        "Title": "גל במדבר - טיול באגי",
+        "STitle": "הנחות מיוחדות",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/GalHamidbar/GalHamidbar_big.min.jpg",
+        "Id": 102885,
+        "NOV": "10",
+        "DataListAddr": [
+          {
+            "Addr": "שופרון 0, אילת",
+            "DAd": "שופרון,אילת"
+          }
+        ]
+      },
+      {
+        "CatId": 4,
+        "Title": "חוות הגמלים אילת",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/ChavatHagmalim/havatAgmalim_big.min.jpg",
+        "Id": 102905,
+        "DataListAddr": [
+          {
+            "DAd": "אילת"
+          }
+        ]
+      },
+      {
+        "CatId": 4,
+        "Title": "לעוף מצנחי רחיפה",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/LaufMitsnacheyRechifa/big.jpg&format=webp&type=b",
+        "Id": 103441,
+        "DataListAddr": [
+          {
+            "Addr": "נתניה",
+            "DAd": "טיילת"
+          }
+        ]
+      },
+      {
+        "CatId": 4,
+        "Title": "טיולי ג'יפים",
+        "STitle": "הנחות ליחיד",
+        "ClET": false,
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/TiuleyJeepim/big.jpg&format=webp&type=b",
+        "Id": 103591,
+        "DataListAddr": [
+          {
+            "DAd": "אילת"
+          }
+        ]
+      },
+      {
+        "CatId": 4,
+        "Title": "רשות הטבע והגנים",
+        "STitle": "מינוי מטמון במחיר מיוחד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/LeumiCard/PublishingImages/2016/04April/reshutHateva/ReshurHateva.min.jpg",
+        "Id": 103657,
+        "DataListAddr": []
+      },
+      {
+        "CatId": 4,
+        "Title": "לה פאצ'ה - חד נס",
+        "STitle": "אירוח בצימר בהנחה מיוחדת",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/LeumiCard/PublishingImages/Tzimerim/LaPacha/LaPacha_big.min.jpg",
+        "Id": 103686,
+        "DataListAddr": [
+          {
+            "DAd": "חד נס"
+          }
+        ]
+      },
+      {
+        "CatId": 5,
+        "Title": "אתי על הגבעה - מושב דישון",
+        "STitle": "אירוח בצימר בהנחה מיוחדת",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/LeumiCard/PublishingImages/Tzimerim/eti/Eti_big.min.jpg",
+        "Id": 103701,
+        "DataListAddr": [
+          {
+            "Addr": "דישון",
+            "DAd": "מושב דישון,גליל עליון"
+          }
+        ]
+      },
+      {
+        "CatId": 5,
+        "Title": "טרקטורוני דישון",
+        "STitle": "הנחות מיוחדות",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/TraktoroneyDishon/dishon_big.min.jpg",
+        "Id": 103715,
+        "DataListAddr": [
+          {
+            "DAd": "מושב דישון"
+          }
+        ]
+      },
+      {
+        "CatId": 5,
+        "Title": "פיינטבול ישראל - קיבוץ כרמים",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://mobile.leumi-card.co.il/ImgHandler/GetImage.ashx?origpath=/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/PaintballIsrael/big.jpg&format=webp&type=b",
+        "Id": 103717,
+        "DataListAddr": [
+          {
+            "Addr": "קיבוץ כרמים",
+            "DAd": "קיבוץ כרמים"
+          }
+        ]
+      },
+      {
+        "CatId": 5,
+        "Title": "סגוויי - תל אביב",
+        "STitle": "הנחות ליחיד",
+        "Imag": "https://www.leumi-card.co.il/he-il/Benefits/BenefitsPlus/PublishingImages/Atraction/Sagway/Sagway_big.min.jpg",
+        "Id": 103718,
+        "DataListAddr": [
+          {
+            "Addr": "יורדי הסירה 0, תל אביב-יפו",
+            "DAd": "נמל תל אביב"
+          }
+        ]
+      }
+    ]
+
+    ,"DataListCat": [
+      {"CatId":1 ,"CTitle":"קטגוריה 1"},
+      {"CatId":2 ,"CTitle":"קטגוריה 2"},
+      {"CatId":3 ,"CTitle":"קטגוריה 3"},
+      {"CatId":4 ,"CTitle":"קטגוריה 4"},
+      {"CatId":5 ,"CTitle":"קטגוריה 5"}
+    ]
+  }
+}
